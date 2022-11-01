@@ -20,10 +20,12 @@ router.get("/", async (req, res) => {
         },
       ],
     })
+    console.log(productData);
     res.status(200).json(productData)
   } catch (err) {
     res.status(500).json(err)
   }
+ 
 })
 
 // get one product
