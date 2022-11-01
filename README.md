@@ -21,7 +21,7 @@
 
 ---
 
-Using a working Express.js API and configure it to use Sequelize to interact with a MYSQL database to build a backend for an e-commerce site.
+Using a working Express.js API and configure it to use Sequelize to interact with a MYSQL database to build a backend for an e-commerce site. Connections and databases are to be tested via Insomnia.
 
 ## Installation:
 
@@ -53,7 +53,7 @@ node server.js
 ## Demo :
 
 ---
-[Click here to watch the demo on Screencastify!](https://drive.google.com/file/d/1rkTnSc0OGjL4_A1vY9j8mV6DBQL4sn9p/view)
+[Click here to watch the demo on Screencastify!](https://drive.google.com/file/d/1gHRgj-Skv4a7tL9ZFXfxoMBcpHMB6jDx/view?usp=sharing)
 
 ## License:
 
